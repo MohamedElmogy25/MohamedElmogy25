@@ -47,18 +47,6 @@ Here are some highlights of my work:
 
 📈 End-to-end EDA project with wrangling, cleaning, and insight extraction
 
-#### 🔍 Diagnolink - Chest Disease Detection App *(Private Repo)*
-
-🩺 Flutter & Django-based mobile app for analyzing chest X-rays
-📱 Integrated ML model to detect multiple diseases with REST API support
-
-#### 📊 Accident Data Analysis with Tableau *(Portfolio)*
-
-🚧 Interactive dashboard analyzing accident trends and insights
-📌 Includes storytelling, KPI summaries, and data-driven recommendations
-
----
-
 ### 📫 Let's Connect
 
 * 📧 **Email:** [mohammed.elmogy7500.com](mohammed.elmogy7500.com)
