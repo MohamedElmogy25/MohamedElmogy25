@@ -49,7 +49,7 @@ Here are some highlights of my work:
 
 ### 📫 Let's Connect
 
-* 📧 **Email:** [mohammed.elmogy7500.com](mohammed.elmogy7500.com)
+* 📧 **Email:** [mohammed.elmogy7500@gmail.com](mohammed.elmogy7500@gamil.com)
 * 💼 **LinkedIn:** [https://www.linkedin.com/in/mooogyyy/](https://www.linkedin.com/in/mooogyyy/)
 
 ---
