@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Mogy
+## 👋 Hi, I'm Mohammed Waleed Elmogy
 
 🎓 **AI & Bioinformatics Enthusiast** | 💻 **Machine Learning & Deep Learning Developer**
 🔬 Passionate about **Medical AI**, **Data Analysis**, and real-world healthcare solutions.
